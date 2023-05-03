@@ -1,4 +1,4 @@
-## Login Page built using React
+## Login Page built using React and Nodejs
 
 ![Demo Image](https://github.com/OmkarBhede/MernStackLogin.fun/blob/master/demo.png?raw=true)
 
